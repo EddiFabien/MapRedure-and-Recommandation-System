@@ -1,0 +1,1001 @@
+City,Gender,Customer type,Product line
+Yangon,Female,Member,Health and beauty
+Naypyitaw,Female,Normal,Electronic accessories
+Yangon,Male,Normal,Home and lifestyle
+Yangon,Male,Member,Health and beauty
+Yangon,Male,Normal,Sports and travel
+Naypyitaw,Male,Normal,Electronic accessories
+Yangon,Female,Member,Electronic accessories
+Naypyitaw,Female,Normal,Home and lifestyle
+Yangon,Female,Member,Health and beauty
+Mandalay,Female,Member,Food and beverages
+Mandalay,Female,Member,Fashion accessories
+Mandalay,Male,Member,Electronic accessories
+Yangon,Female,Normal,Electronic accessories
+Yangon,Male,Normal,Food and beverages
+Yangon,Female,Normal,Health and beauty
+Mandalay,Female,Member,Sports and travel
+Yangon,Female,Member,Health and beauty
+Yangon,Male,Normal,Sports and travel
+Yangon,Male,Normal,Food and beverages
+Mandalay,Female,Normal,Home and lifestyle
+Naypyitaw,Male,Member,Electronic accessories
+Mandalay,Male,Normal,Health and beauty
+Mandalay,Male,Normal,Home and lifestyle
+Yangon,Male,Normal,Electronic accessories
+Yangon,Male,Member,Sports and travel
+Yangon,Female,Member,Home and lifestyle
+Mandalay,Male,Normal,Fashion accessories
+Yangon,Female,Normal,Fashion accessories
+Mandalay,Female,Normal,Food and beverages
+Yangon,Male,Normal,Health and beauty
+Mandalay,Male,Normal,Fashion accessories
+Mandalay,Male,Member,Sports and travel
+Mandalay,Male,Normal,Sports and travel
+Yangon,Male,Normal,Health and beauty
+Naypyitaw,Female,Member,Food and beverages
+Naypyitaw,Female,Member,Sports and travel
+Yangon,Male,Member,Sports and travel
+Yangon,Female,Normal,Electronic accessories
+Naypyitaw,Female,Normal,Health and beauty
+Mandalay,Male,Member,Home and lifestyle
+Mandalay,Female,Member,Home and lifestyle
+Naypyitaw,Male,Member,Home and lifestyle
+Mandalay,Female,Member,Sports and travel
+Naypyitaw,Female,Member,Food and beverages
+Naypyitaw,Male,Member,Health and beauty
+Mandalay,Female,Member,Electronic accessories
+Mandalay,Male,Member,Health and beauty
+Mandalay,Female,Member,Food and beverages
+Mandalay,Male,Member,Electronic accessories
+Naypyitaw,Female,Member,Fashion accessories
+Naypyitaw,Male,Member,Food and beverages
+Yangon,Female,Member,Food and beverages
+Mandalay,Female,Member,Fashion accessories
+Naypyitaw,Male,Member,Fashion accessories
+Mandalay,Male,Normal,Home and lifestyle
+Naypyitaw,Female,Normal,Electronic accessories
+Yangon,Male,Member,Home and lifestyle
+Yangon,Male,Normal,Health and beauty
+Yangon,Female,Member,Home and lifestyle
+Naypyitaw,Male,Normal,Electronic accessories
+Naypyitaw,Female,Member,Sports and travel
+Naypyitaw,Male,Normal,Home and lifestyle
+Mandalay,Female,Member,Sports and travel
+Yangon,Male,Member,Sports and travel
+Mandalay,Male,Member,Health and beauty
+Yangon,Male,Member,Health and beauty
+Naypyitaw,Female,Normal,Health and beauty
+Mandalay,Female,Member,Fashion accessories
+Yangon,Male,Normal,Sports and travel
+Yangon,Female,Member,Health and beauty
+Naypyitaw,Male,Normal,Food and beverages
+Naypyitaw,Male,Normal,Fashion accessories
+Mandalay,Female,Member,Food and beverages
+Naypyitaw,Female,Normal,Electronic accessories
+Yangon,Male,Normal,Home and lifestyle
+Naypyitaw,Female,Normal,Electronic accessories
+Naypyitaw,Male,Member,Fashion accessories
+Yangon,Female,Member,Fashion accessories
+Naypyitaw,Female,Member,Food and beverages
+Naypyitaw,Female,Normal,Health and beauty
+Naypyitaw,Female,Normal,Health and beauty
+Mandalay,Female,Normal,Food and beverages
+Naypyitaw,Male,Normal,Food and beverages
+Naypyitaw,Female,Member,Food and beverages
+Naypyitaw,Male,Member,Sports and travel
+Naypyitaw,Female,Normal,Sports and travel
+Naypyitaw,Male,Normal,Fashion accessories
+Yangon,Male,Member,Food and beverages
+Yangon,Male,Normal,Sports and travel
+Mandalay,Female,Normal,Health and beauty
+Naypyitaw,Female,Member,Home and lifestyle
+Naypyitaw,Female,Normal,Sports and travel
+Yangon,Female,Member,Sports and travel
+Mandalay,Male,Member,Health and beauty
+Naypyitaw,Male,Normal,Health and beauty
+Yangon,Male,Normal,Electronic accessories
+Mandalay,Male,Normal,Health and beauty
+Naypyitaw,Female,Normal,Electronic accessories
+Yangon,Male,Normal,Food and beverages
+Mandalay,Male,Normal,Home and lifestyle
+Naypyitaw,Male,Member,Fashion accessories
+Naypyitaw,Male,Normal,Fashion accessories
+Naypyitaw,Female,Normal,Electronic accessories
+Yangon,Male,Normal,Food and beverages
+Mandalay,Male,Normal,Health and beauty
+Yangon,Male,Member,Electronic accessories
+Naypyitaw,Male,Normal,Fashion accessories
+Yangon,Male,Normal,Sports and travel
+Naypyitaw,Female,Normal,Food and beverages
+Naypyitaw,Male,Member,Electronic accessories
+Mandalay,Female,Member,Sports and travel
+Naypyitaw,Female,Member,Health and beauty
+Mandalay,Female,Normal,Fashion accessories
+Yangon,Male,Member,Home and lifestyle
+Naypyitaw,Female,Member,Home and lifestyle
+Naypyitaw,Female,Normal,Fashion accessories
+Mandalay,Male,Member,Fashion accessories
+Mandalay,Male,Member,Fashion accessories
+Yangon,Female,Normal,Food and beverages
+Mandalay,Male,Normal,Home and lifestyle
+Yangon,Female,Normal,Electronic accessories
+Naypyitaw,Male,Member,Sports and travel
+Mandalay,Male,Member,Sports and travel
+Naypyitaw,Male,Member,Home and lifestyle
+Mandalay,Female,Member,Fashion accessories
+Yangon,Female,Normal,Home and lifestyle
+Yangon,Female,Normal,Sports and travel
+Naypyitaw,Female,Normal,Fashion accessories
+Naypyitaw,Female,Member,Food and beverages
+Mandalay,Female,Normal,Sports and travel
+Mandalay,Female,Normal,Fashion accessories
+Yangon,Female,Member,Sports and travel
+Mandalay,Female,Normal,Sports and travel
+Mandalay,Male,Member,Electronic accessories
+Naypyitaw,Female,Normal,Health and beauty
+Naypyitaw,Male,Normal,Fashion accessories
+Yangon,Female,Normal,Electronic accessories
+Yangon,Female,Member,Home and lifestyle
+Mandalay,Male,Normal,Sports and travel
+Yangon,Male,Normal,Sports and travel
+Naypyitaw,Female,Member,Sports and travel
+Naypyitaw,Male,Member,Health and beauty
+Naypyitaw,Female,Member,Health and beauty
+Naypyitaw,Female,Member,Food and beverages
+Yangon,Female,Normal,Home and lifestyle
+Naypyitaw,Female,Normal,Health and beauty
+Yangon,Female,Member,Fashion accessories
+Naypyitaw,Male,Normal,Health and beauty
+Mandalay,Male,Member,Home and lifestyle
+Yangon,Male,Normal,Health and beauty
+Mandalay,Female,Member,Fashion accessories
+Naypyitaw,Male,Member,Sports and travel
+Yangon,Male,Normal,Fashion accessories
+Naypyitaw,Female,Normal,Food and beverages
+Naypyitaw,Female,Normal,Sports and travel
+Yangon,Male,Member,Food and beverages
+Mandalay,Male,Member,Electronic accessories
+Mandalay,Male,Normal,Home and lifestyle
+Mandalay,Male,Member,Health and beauty
+Mandalay,Male,Normal,Sports and travel
+Naypyitaw,Female,Normal,Food and beverages
+Yangon,Male,Normal,Sports and travel
+Yangon,Male,Normal,Food and beverages
+Naypyitaw,Male,Normal,Sports and travel
+Mandalay,Male,Normal,Food and beverages
+Mandalay,Male,Member,Health and beauty
+Naypyitaw,Male,Normal,Home and lifestyle
+Yangon,Male,Normal,Fashion accessories
+Yangon,Male,Normal,Food and beverages
+Yangon,Male,Member,Sports and travel
+Yangon,Male,Normal,Health and beauty
+Mandalay,Male,Member,Food and beverages
+Naypyitaw,Male,Normal,Electronic accessories
+Mandalay,Male,Member,Electronic accessories
+Mandalay,Male,Normal,Food and beverages
+Yangon,Male,Member,Home and lifestyle
+Yangon,Male,Member,Food and beverages
+Naypyitaw,Female,Normal,Fashion accessories
+Yangon,Male,Normal,Food and beverages
+Naypyitaw,Male,Member,Health and beauty
+Naypyitaw,Male,Normal,Fashion accessories
+Naypyitaw,Male,Member,Food and beverages
+Yangon,Male,Member,Sports and travel
+Naypyitaw,Male,Normal,Health and beauty
+Yangon,Female,Normal,Sports and travel
+Mandalay,Male,Member,Food and beverages
+Mandalay,Female,Member,Home and lifestyle
+Mandalay,Male,Member,Home and lifestyle
+Yangon,Male,Normal,Home and lifestyle
+Naypyitaw,Female,Normal,Home and lifestyle
+Mandalay,Female,Normal,Home and lifestyle
+Mandalay,Female,Normal,Fashion accessories
+Naypyitaw,Female,Normal,Food and beverages
+Mandalay,Male,Normal,Home and lifestyle
+Yangon,Male,Normal,Electronic accessories
+Naypyitaw,Female,Member,Fashion accessories
+Naypyitaw,Male,Member,Health and beauty
+Yangon,Female,Normal,Home and lifestyle
+Naypyitaw,Male,Normal,Health and beauty
+Naypyitaw,Female,Member,Food and beverages
+Naypyitaw,Female,Member,Sports and travel
+Mandalay,Female,Member,Electronic accessories
+Naypyitaw,Male,Normal,Electronic accessories
+Mandalay,Male,Member,Health and beauty
+Mandalay,Male,Member,Home and lifestyle
+Yangon,Female,Normal,Health and beauty
+Naypyitaw,Female,Member,Electronic accessories
+Naypyitaw,Female,Member,Home and lifestyle
+Mandalay,Female,Normal,Fashion accessories
+Mandalay,Female,Normal,Electronic accessories
+Yangon,Male,Normal,Electronic accessories
+Naypyitaw,Female,Normal,Food and beverages
+Mandalay,Male,Normal,Home and lifestyle
+Mandalay,Male,Normal,Sports and travel
+Mandalay,Female,Member,Sports and travel
+Yangon,Male,Normal,Home and lifestyle
+Mandalay,Female,Normal,Sports and travel
+Yangon,Female,Member,Electronic accessories
+Mandalay,Male,Normal,Fashion accessories
+Mandalay,Female,Normal,Food and beverages
+Mandalay,Male,Normal,Electronic accessories
+Mandalay,Male,Normal,Food and beverages
+Naypyitaw,Male,Normal,Electronic accessories
+Naypyitaw,Female,Member,Fashion accessories
+Yangon,Male,Normal,Food and beverages
+Naypyitaw,Female,Member,Sports and travel
+Mandalay,Male,Member,Health and beauty
+Naypyitaw,Male,Member,Electronic accessories
+Mandalay,Female,Member,Electronic accessories
+Yangon,Female,Normal,Home and lifestyle
+Mandalay,Female,Normal,Fashion accessories
+Mandalay,Female,Member,Electronic accessories
+Mandalay,Female,Normal,Health and beauty
+Mandalay,Male,Member,Fashion accessories
+Yangon,Male,Member,Health and beauty
+Yangon,Female,Normal,Sports and travel
+Naypyitaw,Male,Normal,Health and beauty
+Naypyitaw,Female,Member,Fashion accessories
+Mandalay,Female,Member,Electronic accessories
+Yangon,Male,Normal,Fashion accessories
+Yangon,Male,Normal,Food and beverages
+Yangon,Male,Normal,Health and beauty
+Naypyitaw,Male,Member,Fashion accessories
+Yangon,Male,Member,Home and lifestyle
+Mandalay,Male,Normal,Home and lifestyle
+Yangon,Male,Member,Home and lifestyle
+Mandalay,Female,Member,Electronic accessories
+Yangon,Male,Member,Fashion accessories
+Yangon,Male,Member,Electronic accessories
+Mandalay,Male,Normal,Food and beverages
+Mandalay,Male,Member,Food and beverages
+Naypyitaw,Male,Member,Fashion accessories
+Naypyitaw,Female,Normal,Sports and travel
+Yangon,Male,Normal,Home and lifestyle
+Yangon,Male,Member,Home and lifestyle
+Mandalay,Male,Member,Fashion accessories
+Yangon,Male,Member,Electronic accessories
+Yangon,Male,Member,Home and lifestyle
+Yangon,Male,Member,Electronic accessories
+Naypyitaw,Male,Member,Electronic accessories
+Yangon,Female,Normal,Electronic accessories
+Naypyitaw,Female,Normal,Fashion accessories
+Mandalay,Female,Member,Fashion accessories
+Yangon,Female,Member,Sports and travel
+Mandalay,Male,Normal,Sports and travel
+Yangon,Female,Member,Sports and travel
+Naypyitaw,Male,Normal,Home and lifestyle
+Mandalay,Female,Member,Food and beverages
+Yangon,Male,Member,Home and lifestyle
+Yangon,Female,Member,Home and lifestyle
+Mandalay,Female,Normal,Sports and travel
+Naypyitaw,Female,Member,Health and beauty
+Yangon,Female,Member,Home and lifestyle
+Yangon,Female,Normal,Home and lifestyle
+Mandalay,Female,Normal,Health and beauty
+Mandalay,Male,Normal,Fashion accessories
+Naypyitaw,Female,Member,Home and lifestyle
+Naypyitaw,Female,Normal,Fashion accessories
+Naypyitaw,Male,Member,Fashion accessories
+Yangon,Male,Member,Sports and travel
+Yangon,Female,Normal,Home and lifestyle
+Naypyitaw,Male,Normal,Home and lifestyle
+Yangon,Female,Normal,Sports and travel
+Yangon,Male,Member,Health and beauty
+Yangon,Female,Member,Health and beauty
+Mandalay,Male,Normal,Health and beauty
+Naypyitaw,Male,Member,Home and lifestyle
+Naypyitaw,Female,Normal,Sports and travel
+Mandalay,Female,Normal,Food and beverages
+Yangon,Female,Member,Home and lifestyle
+Mandalay,Male,Member,Electronic accessories
+Naypyitaw,Male,Normal,Electronic accessories
+Yangon,Female,Member,Electronic accessories
+Yangon,Female,Member,Food and beverages
+Mandalay,Male,Normal,Health and beauty
+Naypyitaw,Female,Member,Electronic accessories
+Naypyitaw,Male,Normal,Electronic accessories
+Yangon,Male,Member,Home and lifestyle
+Yangon,Male,Member,Home and lifestyle
+Naypyitaw,Female,Member,Home and lifestyle
+Naypyitaw,Male,Normal,Fashion accessories
+Mandalay,Male,Member,Health and beauty
+Naypyitaw,Male,Normal,Food and beverages
+Yangon,Female,Normal,Electronic accessories
+Mandalay,Female,Normal,Electronic accessories
+Yangon,Male,Member,Electronic accessories
+Yangon,Female,Normal,Sports and travel
+Yangon,Female,Member,Home and lifestyle
+Yangon,Female,Member,Electronic accessories
+Yangon,Female,Normal,Fashion accessories
+Mandalay,Male,Member,Sports and travel
+Naypyitaw,Male,Member,Fashion accessories
+Yangon,Female,Member,Food and beverages
+Yangon,Female,Member,Health and beauty
+Naypyitaw,Female,Member,Electronic accessories
+Naypyitaw,Male,Member,Food and beverages
+Naypyitaw,Female,Member,Food and beverages
+Naypyitaw,Male,Member,Electronic accessories
+Naypyitaw,Female,Member,Health and beauty
+Naypyitaw,Male,Member,Health and beauty
+Naypyitaw,Female,Normal,Food and beverages
+Naypyitaw,Female,Normal,Health and beauty
+Yangon,Male,Normal,Health and beauty
+Yangon,Female,Normal,Fashion accessories
+Yangon,Male,Normal,Home and lifestyle
+Mandalay,Male,Normal,Sports and travel
+Yangon,Male,Member,Food and beverages
+Naypyitaw,Male,Member,Food and beverages
+Mandalay,Male,Member,Health and beauty
+Yangon,Male,Member,Electronic accessories
+Mandalay,Male,Normal,Home and lifestyle
+Yangon,Male,Normal,Food and beverages
+Yangon,Male,Normal,Fashion accessories
+Yangon,Male,Member,Food and beverages
+Naypyitaw,Male,Member,Sports and travel
+Yangon,Female,Member,Electronic accessories
+Yangon,Male,Normal,Fashion accessories
+Mandalay,Female,Normal,Sports and travel
+Naypyitaw,Female,Normal,Electronic accessories
+Mandalay,Female,Member,Food and beverages
+Mandalay,Male,Member,Electronic accessories
+Mandalay,Female,Member,Health and beauty
+Mandalay,Female,Member,Health and beauty
+Naypyitaw,Female,Normal,Food and beverages
+Yangon,Male,Normal,Sports and travel
+Yangon,Female,Normal,Fashion accessories
+Yangon,Male,Member,Electronic accessories
+Naypyitaw,Female,Member,Home and lifestyle
+Yangon,Male,Normal,Electronic accessories
+Mandalay,Female,Normal,Health and beauty
+Naypyitaw,Female,Member,Fashion accessories
+Yangon,Male,Normal,Electronic accessories
+Mandalay,Female,Member,Fashion accessories
+Mandalay,Male,Member,Home and lifestyle
+Naypyitaw,Female,Normal,Electronic accessories
+Mandalay,Female,Member,Food and beverages
+Naypyitaw,Female,Normal,Fashion accessories
+Naypyitaw,Female,Normal,Sports and travel
+Mandalay,Male,Normal,Electronic accessories
+Mandalay,Male,Normal,Sports and travel
+Yangon,Male,Member,Food and beverages
+Naypyitaw,Female,Normal,Food and beverages
+Naypyitaw,Male,Normal,Food and beverages
+Yangon,Male,Normal,Home and lifestyle
+Naypyitaw,Female,Normal,Food and beverages
+Naypyitaw,Female,Normal,Fashion accessories
+Naypyitaw,Female,Normal,Electronic accessories
+Yangon,Male,Member,Home and lifestyle
+Naypyitaw,Female,Normal,Sports and travel
+Yangon,Male,Member,Electronic accessories
+Mandalay,Female,Member,Electronic accessories
+Mandalay,Female,Normal,Fashion accessories
+Naypyitaw,Female,Normal,Home and lifestyle
+Naypyitaw,Male,Normal,Fashion accessories
+Yangon,Female,Normal,Home and lifestyle
+Yangon,Female,Member,Fashion accessories
+Mandalay,Female,Member,Home and lifestyle
+Naypyitaw,Male,Normal,Sports and travel
+Naypyitaw,Male,Member,Fashion accessories
+Mandalay,Female,Normal,Electronic accessories
+Yangon,Male,Member,Sports and travel
+Naypyitaw,Female,Normal,Electronic accessories
+Mandalay,Female,Normal,Food and beverages
+Naypyitaw,Female,Member,Food and beverages
+Yangon,Female,Normal,Food and beverages
+Mandalay,Male,Member,Sports and travel
+Naypyitaw,Male,Normal,Food and beverages
+Yangon,Female,Normal,Health and beauty
+Naypyitaw,Female,Member,Fashion accessories
+Mandalay,Male,Normal,Food and beverages
+Naypyitaw,Female,Member,Fashion accessories
+Mandalay,Female,Normal,Fashion accessories
+Yangon,Male,Member,Electronic accessories
+Yangon,Female,Member,Sports and travel
+Yangon,Female,Normal,Health and beauty
+Yangon,Female,Normal,Health and beauty
+Yangon,Female,Normal,Food and beverages
+Mandalay,Male,Normal,Home and lifestyle
+Mandalay,Female,Member,Health and beauty
+Mandalay,Male,Member,Electronic accessories
+Naypyitaw,Female,Normal,Food and beverages
+Naypyitaw,Male,Normal,Home and lifestyle
+Naypyitaw,Male,Member,Home and lifestyle
+Mandalay,Female,Normal,Fashion accessories
+Naypyitaw,Female,Member,Fashion accessories
+Yangon,Male,Member,Sports and travel
+Yangon,Male,Normal,Food and beverages
+Mandalay,Female,Member,Fashion accessories
+Yangon,Female,Normal,Home and lifestyle
+Naypyitaw,Female,Normal,Fashion accessories
+Mandalay,Female,Normal,Health and beauty
+Mandalay,Male,Normal,Sports and travel
+Yangon,Male,Member,Health and beauty
+Yangon,Male,Normal,Sports and travel
+Yangon,Male,Normal,Home and lifestyle
+Mandalay,Male,Normal,Health and beauty
+Naypyitaw,Female,Normal,Home and lifestyle
+Naypyitaw,Female,Member,Health and beauty
+Mandalay,Female,Normal,Health and beauty
+Yangon,Female,Member,Electronic accessories
+Naypyitaw,Female,Member,Food and beverages
+Naypyitaw,Female,Normal,Electronic accessories
+Naypyitaw,Female,Member,Fashion accessories
+Mandalay,Male,Member,Fashion accessories
+Naypyitaw,Male,Normal,Fashion accessories
+Mandalay,Male,Member,Fashion accessories
+Yangon,Male,Member,Health and beauty
+Mandalay,Female,Member,Food and beverages
+Mandalay,Male,Normal,Sports and travel
+Yangon,Female,Member,Home and lifestyle
+Mandalay,Male,Normal,Fashion accessories
+Naypyitaw,Male,Normal,Food and beverages
+Yangon,Female,Normal,Electronic accessories
+Mandalay,Male,Normal,Fashion accessories
+Mandalay,Female,Normal,Fashion accessories
+Naypyitaw,Male,Normal,Sports and travel
+Naypyitaw,Male,Member,Sports and travel
+Yangon,Male,Normal,Home and lifestyle
+Naypyitaw,Male,Member,Food and beverages
+Naypyitaw,Female,Normal,Electronic accessories
+Naypyitaw,Male,Member,Food and beverages
+Mandalay,Female,Member,Sports and travel
+Yangon,Female,Member,Home and lifestyle
+Naypyitaw,Male,Normal,Fashion accessories
+Yangon,Female,Normal,Sports and travel
+Mandalay,Female,Member,Health and beauty
+Naypyitaw,Male,Member,Food and beverages
+Naypyitaw,Male,Normal,Fashion accessories
+Mandalay,Female,Member,Health and beauty
+Mandalay,Female,Member,Sports and travel
+Mandalay,Female,Normal,Electronic accessories
+Mandalay,Male,Normal,Electronic accessories
+Yangon,Female,Normal,Food and beverages
+Yangon,Male,Normal,Health and beauty
+Yangon,Male,Member,Electronic accessories
+Mandalay,Female,Member,Fashion accessories
+Mandalay,Female,Member,Food and beverages
+Mandalay,Male,Normal,Electronic accessories
+Naypyitaw,Female,Member,Electronic accessories
+Naypyitaw,Male,Normal,Food and beverages
+Naypyitaw,Male,Normal,Food and beverages
+Mandalay,Female,Member,Food and beverages
+Naypyitaw,Female,Normal,Sports and travel
+Naypyitaw,Female,Member,Food and beverages
+Yangon,Male,Member,Food and beverages
+Naypyitaw,Female,Member,Sports and travel
+Naypyitaw,Female,Member,Health and beauty
+Mandalay,Male,Normal,Sports and travel
+Naypyitaw,Male,Normal,Food and beverages
+Naypyitaw,Female,Member,Electronic accessories
+Naypyitaw,Female,Member,Home and lifestyle
+Yangon,Female,Member,Sports and travel
+Yangon,Male,Member,Fashion accessories
+Mandalay,Male,Member,Health and beauty
+Yangon,Female,Member,Electronic accessories
+Yangon,Male,Normal,Health and beauty
+Yangon,Female,Normal,Sports and travel
+Naypyitaw,Male,Normal,Electronic accessories
+Mandalay,Male,Normal,Sports and travel
+Yangon,Male,Normal,Electronic accessories
+Naypyitaw,Male,Normal,Food and beverages
+Naypyitaw,Female,Normal,Electronic accessories
+Yangon,Male,Normal,Sports and travel
+Mandalay,Male,Member,Home and lifestyle
+Naypyitaw,Female,Member,Sports and travel
+Mandalay,Female,Member,Sports and travel
+Mandalay,Female,Normal,Fashion accessories
+Yangon,Male,Normal,Fashion accessories
+Naypyitaw,Male,Normal,Home and lifestyle
+Mandalay,Female,Member,Home and lifestyle
+Mandalay,Female,Normal,Fashion accessories
+Yangon,Female,Member,Fashion accessories
+Mandalay,Female,Member,Health and beauty
+Naypyitaw,Female,Member,Home and lifestyle
+Mandalay,Male,Normal,Fashion accessories
+Mandalay,Male,Normal,Sports and travel
+Naypyitaw,Female,Normal,Electronic accessories
+Naypyitaw,Female,Normal,Food and beverages
+Mandalay,Female,Member,Sports and travel
+Yangon,Female,Member,Sports and travel
+Mandalay,Male,Member,Sports and travel
+Naypyitaw,Female,Member,Fashion accessories
+Naypyitaw,Male,Normal,Home and lifestyle
+Mandalay,Female,Normal,Sports and travel
+Mandalay,Male,Normal,Sports and travel
+Yangon,Male,Member,Electronic accessories
+Mandalay,Female,Member,Sports and travel
+Mandalay,Female,Normal,Food and beverages
+Mandalay,Male,Member,Health and beauty
+Naypyitaw,Female,Member,Home and lifestyle
+Mandalay,Female,Member,Sports and travel
+Yangon,Female,Normal,Home and lifestyle
+Yangon,Female,Normal,Fashion accessories
+Yangon,Male,Normal,Electronic accessories
+Naypyitaw,Male,Member,Sports and travel
+Naypyitaw,Female,Member,Fashion accessories
+Mandalay,Male,Member,Health and beauty
+Naypyitaw,Male,Member,Home and lifestyle
+Yangon,Male,Normal,Home and lifestyle
+Naypyitaw,Male,Member,Sports and travel
+Mandalay,Female,Normal,Electronic accessories
+Naypyitaw,Female,Member,Home and lifestyle
+Yangon,Female,Member,Home and lifestyle
+Naypyitaw,Male,Normal,Health and beauty
+Yangon,Male,Normal,Food and beverages
+Yangon,Female,Member,Sports and travel
+Mandalay,Male,Normal,Fashion accessories
+Mandalay,Male,Member,Fashion accessories
+Mandalay,Female,Member,Food and beverages
+Yangon,Male,Normal,Sports and travel
+Yangon,Male,Normal,Health and beauty
+Yangon,Male,Member,Fashion accessories
+Mandalay,Male,Normal,Electronic accessories
+Naypyitaw,Female,Normal,Food and beverages
+Yangon,Female,Normal,Home and lifestyle
+Naypyitaw,Male,Normal,Home and lifestyle
+Mandalay,Female,Member,Fashion accessories
+Yangon,Male,Normal,Home and lifestyle
+Yangon,Female,Normal,Fashion accessories
+Naypyitaw,Female,Member,Food and beverages
+Yangon,Male,Normal,Home and lifestyle
+Naypyitaw,Male,Member,Health and beauty
+Mandalay,Female,Member,Sports and travel
+Naypyitaw,Male,Member,Electronic accessories
+Mandalay,Female,Normal,Food and beverages
+Mandalay,Male,Member,Home and lifestyle
+Yangon,Female,Normal,Fashion accessories
+Yangon,Male,Normal,Sports and travel
+Mandalay,Female,Normal,Sports and travel
+Yangon,Female,Normal,Electronic accessories
+Mandalay,Male,Normal,Fashion accessories
+Mandalay,Female,Normal,Fashion accessories
+Mandalay,Female,Normal,Health and beauty
+Naypyitaw,Male,Normal,Electronic accessories
+Yangon,Male,Member,Electronic accessories
+Mandalay,Male,Normal,Home and lifestyle
+Mandalay,Female,Member,Fashion accessories
+Naypyitaw,Female,Member,Food and beverages
+Yangon,Male,Member,Food and beverages
+Yangon,Female,Member,Home and lifestyle
+Mandalay,Male,Normal,Electronic accessories
+Naypyitaw,Male,Normal,Food and beverages
+Mandalay,Female,Normal,Electronic accessories
+Yangon,Male,Member,Electronic accessories
+Mandalay,Male,Normal,Fashion accessories
+Yangon,Female,Normal,Food and beverages
+Naypyitaw,Female,Normal,Sports and travel
+Yangon,Female,Normal,Fashion accessories
+Mandalay,Female,Normal,Fashion accessories
+Naypyitaw,Female,Normal,Sports and travel
+Mandalay,Female,Member,Home and lifestyle
+Mandalay,Male,Member,Sports and travel
+Yangon,Male,Member,Food and beverages
+Mandalay,Male,Normal,Food and beverages
+Yangon,Male,Normal,Sports and travel
+Mandalay,Male,Member,Fashion accessories
+Mandalay,Male,Normal,Food and beverages
+Naypyitaw,Male,Normal,Food and beverages
+Yangon,Female,Normal,Health and beauty
+Mandalay,Male,Normal,Health and beauty
+Naypyitaw,Male,Normal,Food and beverages
+Yangon,Female,Member,Health and beauty
+Naypyitaw,Female,Member,Fashion accessories
+Mandalay,Female,Member,Fashion accessories
+Mandalay,Male,Normal,Sports and travel
+Yangon,Male,Normal,Health and beauty
+Yangon,Female,Normal,Food and beverages
+Yangon,Female,Normal,Sports and travel
+Naypyitaw,Male,Normal,Fashion accessories
+Yangon,Male,Normal,Health and beauty
+Naypyitaw,Male,Member,Health and beauty
+Naypyitaw,Female,Member,Home and lifestyle
+Yangon,Female,Member,Sports and travel
+Yangon,Female,Member,Sports and travel
+Mandalay,Male,Member,Sports and travel
+Mandalay,Male,Normal,Health and beauty
+Yangon,Male,Normal,Food and beverages
+Naypyitaw,Female,Normal,Sports and travel
+Naypyitaw,Female,Normal,Fashion accessories
+Yangon,Female,Member,Home and lifestyle
+Naypyitaw,Male,Normal,Electronic accessories
+Naypyitaw,Female,Normal,Fashion accessories
+Naypyitaw,Male,Normal,Food and beverages
+Mandalay,Female,Normal,Sports and travel
+Naypyitaw,Female,Member,Fashion accessories
+Mandalay,Male,Normal,Home and lifestyle
+Yangon,Female,Member,Fashion accessories
+Naypyitaw,Female,Member,Food and beverages
+Yangon,Male,Normal,Fashion accessories
+Mandalay,Male,Member,Food and beverages
+Yangon,Female,Normal,Electronic accessories
+Naypyitaw,Female,Member,Food and beverages
+Mandalay,Male,Member,Fashion accessories
+Naypyitaw,Male,Member,Sports and travel
+Yangon,Male,Member,Food and beverages
+Yangon,Female,Member,Sports and travel
+Mandalay,Male,Member,Sports and travel
+Naypyitaw,Male,Member,Electronic accessories
+Yangon,Male,Member,Food and beverages
+Naypyitaw,Female,Member,Fashion accessories
+Yangon,Female,Normal,Food and beverages
+Yangon,Female,Member,Food and beverages
+Mandalay,Female,Member,Home and lifestyle
+Mandalay,Female,Normal,Fashion accessories
+Mandalay,Male,Member,Fashion accessories
+Mandalay,Female,Member,Food and beverages
+Yangon,Male,Normal,Sports and travel
+Mandalay,Male,Member,Health and beauty
+Yangon,Male,Member,Home and lifestyle
+Yangon,Female,Normal,Fashion accessories
+Yangon,Male,Normal,Sports and travel
+Yangon,Male,Normal,Electronic accessories
+Yangon,Male,Member,Food and beverages
+Mandalay,Male,Normal,Home and lifestyle
+Mandalay,Male,Member,Food and beverages
+Mandalay,Male,Member,Health and beauty
+Yangon,Male,Normal,Health and beauty
+Naypyitaw,Female,Normal,Electronic accessories
+Mandalay,Female,Member,Food and beverages
+Mandalay,Male,Normal,Fashion accessories
+Mandalay,Female,Member,Food and beverages
+Naypyitaw,Female,Member,Electronic accessories
+Mandalay,Male,Member,Electronic accessories
+Naypyitaw,Female,Member,Food and beverages
+Naypyitaw,Male,Member,Electronic accessories
+Yangon,Male,Member,Home and lifestyle
+Naypyitaw,Male,Normal,Health and beauty
+Mandalay,Male,Member,Fashion accessories
+Naypyitaw,Female,Member,Sports and travel
+Naypyitaw,Male,Normal,Electronic accessories
+Mandalay,Male,Normal,Electronic accessories
+Mandalay,Female,Normal,Health and beauty
+Yangon,Male,Member,Home and lifestyle
+Mandalay,Male,Member,Sports and travel
+Mandalay,Male,Member,Fashion accessories
+Yangon,Female,Normal,Electronic accessories
+Naypyitaw,Female,Normal,Electronic accessories
+Yangon,Female,Member,Fashion accessories
+Yangon,Female,Member,Sports and travel
+Yangon,Male,Member,Fashion accessories
+Mandalay,Female,Normal,Sports and travel
+Naypyitaw,Male,Member,Sports and travel
+Mandalay,Female,Member,Fashion accessories
+Naypyitaw,Female,Member,Food and beverages
+Naypyitaw,Female,Normal,Sports and travel
+Yangon,Female,Normal,Fashion accessories
+Mandalay,Male,Member,Food and beverages
+Mandalay,Female,Normal,Health and beauty
+Naypyitaw,Female,Member,Health and beauty
+Mandalay,Female,Normal,Sports and travel
+Yangon,Male,Member,Fashion accessories
+Mandalay,Male,Member,Food and beverages
+Mandalay,Female,Normal,Health and beauty
+Naypyitaw,Male,Normal,Health and beauty
+Yangon,Female,Normal,Electronic accessories
+Mandalay,Male,Member,Fashion accessories
+Mandalay,Female,Member,Sports and travel
+Yangon,Female,Member,Food and beverages
+Naypyitaw,Male,Normal,Health and beauty
+Yangon,Male,Member,Food and beverages
+Mandalay,Female,Member,Electronic accessories
+Mandalay,Female,Normal,Sports and travel
+Naypyitaw,Female,Normal,Fashion accessories
+Yangon,Male,Member,Fashion accessories
+Mandalay,Female,Member,Sports and travel
+Mandalay,Female,Member,Home and lifestyle
+Mandalay,Female,Member,Sports and travel
+Yangon,Male,Member,Home and lifestyle
+Naypyitaw,Male,Member,Sports and travel
+Yangon,Female,Normal,Food and beverages
+Naypyitaw,Female,Member,Sports and travel
+Naypyitaw,Male,Member,Food and beverages
+Yangon,Male,Member,Health and beauty
+Naypyitaw,Female,Member,Fashion accessories
+Naypyitaw,Female,Normal,Food and beverages
+Yangon,Female,Member,Home and lifestyle
+Yangon,Female,Member,Sports and travel
+Mandalay,Male,Normal,Home and lifestyle
+Yangon,Male,Member,Electronic accessories
+Naypyitaw,Male,Normal,Home and lifestyle
+Naypyitaw,Female,Normal,Fashion accessories
+Mandalay,Male,Normal,Food and beverages
+Mandalay,Female,Member,Fashion accessories
+Mandalay,Male,Member,Health and beauty
+Mandalay,Female,Member,Home and lifestyle
+Mandalay,Male,Normal,Health and beauty
+Mandalay,Female,Normal,Electronic accessories
+Naypyitaw,Male,Member,Food and beverages
+Naypyitaw,Male,Normal,Fashion accessories
+Yangon,Male,Normal,Sports and travel
+Yangon,Male,Member,Food and beverages
+Naypyitaw,Female,Member,Home and lifestyle
+Naypyitaw,Female,Normal,Electronic accessories
+Naypyitaw,Female,Normal,Health and beauty
+Naypyitaw,Male,Member,Fashion accessories
+Yangon,Female,Normal,Health and beauty
+Yangon,Female,Member,Fashion accessories
+Yangon,Male,Member,Electronic accessories
+Yangon,Male,Normal,Fashion accessories
+Mandalay,Female,Member,Fashion accessories
+Mandalay,Female,Normal,Fashion accessories
+Naypyitaw,Female,Member,Sports and travel
+Mandalay,Male,Normal,Home and lifestyle
+Naypyitaw,Female,Member,Food and beverages
+Mandalay,Male,Member,Food and beverages
+Naypyitaw,Female,Member,Health and beauty
+Naypyitaw,Male,Member,Home and lifestyle
+Mandalay,Male,Normal,Sports and travel
+Naypyitaw,Male,Normal,Fashion accessories
+Mandalay,Female,Member,Home and lifestyle
+Yangon,Female,Member,Fashion accessories
+Yangon,Male,Normal,Health and beauty
+Yangon,Male,Member,Fashion accessories
+Mandalay,Male,Normal,Electronic accessories
+Mandalay,Male,Member,Food and beverages
+Naypyitaw,Male,Member,Health and beauty
+Naypyitaw,Female,Member,Home and lifestyle
+Naypyitaw,Male,Normal,Electronic accessories
+Mandalay,Male,Member,Electronic accessories
+Yangon,Male,Normal,Home and lifestyle
+Naypyitaw,Male,Normal,Home and lifestyle
+Naypyitaw,Male,Normal,Food and beverages
+Yangon,Female,Member,Sports and travel
+Yangon,Male,Member,Home and lifestyle
+Naypyitaw,Female,Member,Sports and travel
+Naypyitaw,Female,Member,Food and beverages
+Mandalay,Male,Member,Fashion accessories
+Naypyitaw,Female,Member,Home and lifestyle
+Mandalay,Female,Member,Home and lifestyle
+Naypyitaw,Male,Member,Health and beauty
+Mandalay,Female,Member,Fashion accessories
+Yangon,Female,Normal,Food and beverages
+Yangon,Female,Member,Electronic accessories
+Mandalay,Male,Normal,Home and lifestyle
+Naypyitaw,Female,Member,Fashion accessories
+Yangon,Female,Normal,Fashion accessories
+Mandalay,Female,Member,Electronic accessories
+Yangon,Female,Normal,Home and lifestyle
+Yangon,Male,Member,Food and beverages
+Yangon,Female,Normal,Food and beverages
+Mandalay,Female,Member,Food and beverages
+Mandalay,Male,Normal,Electronic accessories
+Yangon,Female,Member,Fashion accessories
+Yangon,Female,Member,Health and beauty
+Yangon,Male,Member,Health and beauty
+Mandalay,Female,Normal,Home and lifestyle
+Naypyitaw,Female,Normal,Fashion accessories
+Mandalay,Male,Normal,Sports and travel
+Mandalay,Female,Normal,Electronic accessories
+Yangon,Female,Normal,Home and lifestyle
+Mandalay,Female,Member,Sports and travel
+Naypyitaw,Female,Member,Health and beauty
+Naypyitaw,Female,Member,Sports and travel
+Naypyitaw,Female,Normal,Food and beverages
+Naypyitaw,Male,Member,Food and beverages
+Mandalay,Female,Normal,Food and beverages
+Naypyitaw,Male,Member,Health and beauty
+Mandalay,Male,Normal,Sports and travel
+Naypyitaw,Male,Member,Sports and travel
+Mandalay,Male,Member,Electronic accessories
+Naypyitaw,Male,Normal,Health and beauty
+Yangon,Female,Normal,Sports and travel
+Yangon,Female,Member,Fashion accessories
+Naypyitaw,Female,Normal,Home and lifestyle
+Naypyitaw,Female,Member,Health and beauty
+Yangon,Male,Normal,Electronic accessories
+Naypyitaw,Male,Normal,Electronic accessories
+Naypyitaw,Female,Normal,Health and beauty
+Naypyitaw,Male,Member,Health and beauty
+Yangon,Male,Normal,Sports and travel
+Yangon,Male,Normal,Fashion accessories
+Naypyitaw,Male,Member,Health and beauty
+Mandalay,Female,Normal,Home and lifestyle
+Yangon,Male,Member,Electronic accessories
+Yangon,Female,Normal,Electronic accessories
+Mandalay,Male,Normal,Fashion accessories
+Naypyitaw,Female,Member,Home and lifestyle
+Yangon,Female,Member,Sports and travel
+Mandalay,Male,Normal,Health and beauty
+Naypyitaw,Male,Member,Home and lifestyle
+Mandalay,Male,Normal,Sports and travel
+Naypyitaw,Female,Member,Electronic accessories
+Naypyitaw,Male,Member,Fashion accessories
+Yangon,Female,Member,Fashion accessories
+Mandalay,Female,Member,Electronic accessories
+Yangon,Female,Normal,Home and lifestyle
+Yangon,Female,Normal,Sports and travel
+Yangon,Female,Normal,Electronic accessories
+Mandalay,Female,Normal,Health and beauty
+Naypyitaw,Female,Normal,Fashion accessories
+Mandalay,Male,Normal,Health and beauty
+Yangon,Female,Normal,Electronic accessories
+Naypyitaw,Female,Member,Sports and travel
+Yangon,Male,Normal,Electronic accessories
+Yangon,Female,Member,Electronic accessories
+Mandalay,Female,Normal,Food and beverages
+Naypyitaw,Female,Normal,Fashion accessories
+Yangon,Male,Normal,Food and beverages
+Mandalay,Male,Member,Health and beauty
+Mandalay,Male,Member,Food and beverages
+Mandalay,Male,Normal,Electronic accessories
+Yangon,Female,Member,Home and lifestyle
+Naypyitaw,Male,Member,Sports and travel
+Yangon,Female,Normal,Health and beauty
+Mandalay,Female,Member,Sports and travel
+Yangon,Female,Member,Sports and travel
+Mandalay,Female,Member,Health and beauty
+Yangon,Male,Member,Fashion accessories
+Naypyitaw,Male,Normal,Electronic accessories
+Yangon,Female,Member,Electronic accessories
+Yangon,Male,Normal,Electronic accessories
+Mandalay,Male,Normal,Health and beauty
+Mandalay,Female,Member,Sports and travel
+Yangon,Male,Member,Health and beauty
+Mandalay,Female,Member,Home and lifestyle
+Yangon,Male,Normal,Fashion accessories
+Yangon,Male,Member,Fashion accessories
+Mandalay,Male,Normal,Sports and travel
+Naypyitaw,Male,Normal,Electronic accessories
+Naypyitaw,Female,Member,Sports and travel
+Yangon,Male,Normal,Fashion accessories
+Mandalay,Male,Normal,Electronic accessories
+Yangon,Female,Member,Sports and travel
+Naypyitaw,Female,Member,Food and beverages
+Yangon,Male,Normal,Fashion accessories
+Yangon,Male,Member,Electronic accessories
+Yangon,Male,Member,Electronic accessories
+Naypyitaw,Female,Normal,Sports and travel
+Naypyitaw,Female,Member,Food and beverages
+Yangon,Female,Normal,Fashion accessories
+Yangon,Male,Normal,Fashion accessories
+Yangon,Female,Normal,Fashion accessories
+Naypyitaw,Male,Normal,Health and beauty
+Mandalay,Female,Normal,Electronic accessories
+Yangon,Female,Member,Health and beauty
+Mandalay,Female,Normal,Fashion accessories
+Mandalay,Male,Normal,Food and beverages
+Yangon,Female,Member,Home and lifestyle
+Mandalay,Male,Normal,Health and beauty
+Yangon,Female,Member,Food and beverages
+Naypyitaw,Female,Member,Home and lifestyle
+Yangon,Male,Member,Sports and travel
+Mandalay,Female,Normal,Home and lifestyle
+Mandalay,Female,Normal,Home and lifestyle
+Yangon,Female,Member,Electronic accessories
+Naypyitaw,Male,Member,Health and beauty
+Mandalay,Male,Member,Sports and travel
+Naypyitaw,Female,Member,Health and beauty
+Naypyitaw,Male,Member,Food and beverages
+Yangon,Male,Normal,Sports and travel
+Yangon,Male,Member,Food and beverages
+Naypyitaw,Male,Normal,Fashion accessories
+Mandalay,Female,Member,Electronic accessories
+Yangon,Male,Member,Sports and travel
+Yangon,Male,Member,Home and lifestyle
+Naypyitaw,Male,Normal,Home and lifestyle
+Naypyitaw,Male,Member,Fashion accessories
+Mandalay,Male,Member,Electronic accessories
+Yangon,Female,Normal,Electronic accessories
+Mandalay,Female,Member,Electronic accessories
+Mandalay,Female,Member,Food and beverages
+Naypyitaw,Female,Member,Fashion accessories
+Mandalay,Male,Member,Sports and travel
+Yangon,Female,Member,Home and lifestyle
+Yangon,Female,Member,Food and beverages
+Yangon,Male,Normal,Sports and travel
+Yangon,Male,Member,Food and beverages
+Yangon,Female,Member,Electronic accessories
+Naypyitaw,Female,Normal,Fashion accessories
+Yangon,Male,Member,Sports and travel
+Naypyitaw,Female,Normal,Health and beauty
+Mandalay,Female,Normal,Electronic accessories
+Naypyitaw,Female,Member,Fashion accessories
+Mandalay,Male,Normal,Electronic accessories
+Mandalay,Male,Member,Electronic accessories
+Mandalay,Male,Normal,Health and beauty
+Naypyitaw,Male,Normal,Fashion accessories
+Naypyitaw,Female,Member,Food and beverages
+Naypyitaw,Male,Member,Health and beauty
+Yangon,Male,Member,Food and beverages
+Naypyitaw,Female,Member,Electronic accessories
+Mandalay,Male,Normal,Home and lifestyle
+Yangon,Female,Member,Health and beauty
+Yangon,Male,Normal,Food and beverages
+Naypyitaw,Female,Normal,Health and beauty
+Naypyitaw,Female,Member,Home and lifestyle
+Naypyitaw,Male,Normal,Health and beauty
+Mandalay,Female,Normal,Health and beauty
+Yangon,Female,Member,Food and beverages
+Mandalay,Female,Normal,Home and lifestyle
+Mandalay,Female,Member,Food and beverages
+Naypyitaw,Female,Normal,Electronic accessories
+Yangon,Female,Normal,Home and lifestyle
+Yangon,Male,Member,Fashion accessories
+Yangon,Female,Member,Food and beverages
+Naypyitaw,Female,Normal,Electronic accessories
+Naypyitaw,Male,Member,Sports and travel
+Yangon,Female,Normal,Fashion accessories
+Mandalay,Male,Normal,Home and lifestyle
+Mandalay,Female,Member,Electronic accessories
+Naypyitaw,Female,Member,Home and lifestyle
+Mandalay,Female,Normal,Home and lifestyle
+Naypyitaw,Female,Member,Home and lifestyle
+Naypyitaw,Female,Normal,Sports and travel
+Naypyitaw,Female,Member,Sports and travel
+Mandalay,Female,Normal,Electronic accessories
+Mandalay,Male,Member,Sports and travel
+Yangon,Female,Member,Health and beauty
+Mandalay,Female,Normal,Electronic accessories
+Mandalay,Male,Normal,Sports and travel
+Mandalay,Male,Normal,Home and lifestyle
+Naypyitaw,Female,Member,Fashion accessories
+Yangon,Female,Normal,Food and beverages
+Naypyitaw,Male,Normal,Health and beauty
+Mandalay,Female,Normal,Home and lifestyle
+Naypyitaw,Male,Member,Home and lifestyle
+Naypyitaw,Female,Normal,Health and beauty
+Yangon,Female,Normal,Sports and travel
+Yangon,Female,Member,Health and beauty
+Naypyitaw,Female,Normal,Food and beverages
+Yangon,Male,Normal,Food and beverages
+Naypyitaw,Male,Member,Fashion accessories
+Yangon,Female,Normal,Home and lifestyle
+Yangon,Male,Normal,Health and beauty
+Yangon,Male,Member,Health and beauty
+Yangon,Female,Normal,Electronic accessories
+Naypyitaw,Male,Member,Electronic accessories
+Mandalay,Male,Member,Fashion accessories
+Naypyitaw,Male,Member,Home and lifestyle
+Mandalay,Female,Normal,Food and beverages
+Mandalay,Male,Member,Health and beauty
+Mandalay,Female,Member,Home and lifestyle
+Mandalay,Female,Member,Food and beverages
+Naypyitaw,Female,Member,Food and beverages
+Mandalay,Male,Member,Home and lifestyle
+Yangon,Female,Normal,Fashion accessories
+Naypyitaw,Male,Member,Food and beverages
+Mandalay,Male,Normal,Electronic accessories
+Naypyitaw,Female,Normal,Home and lifestyle
+Yangon,Female,Member,Food and beverages
+Naypyitaw,Male,Member,Fashion accessories
+Yangon,Male,Member,Electronic accessories
+Yangon,Female,Normal,Fashion accessories
+Naypyitaw,Male,Member,Electronic accessories
+Mandalay,Male,Normal,Food and beverages
+Mandalay,Female,Normal,Electronic accessories
+Yangon,Female,Normal,Home and lifestyle
+Yangon,Male,Member,Home and lifestyle
+Yangon,Female,Normal,Health and beauty
+Mandalay,Female,Member,Electronic accessories
+Mandalay,Female,Member,Food and beverages
+Mandalay,Male,Member,Home and lifestyle
+Mandalay,Male,Normal,Electronic accessories
+Yangon,Male,Normal,Home and lifestyle
+Naypyitaw,Male,Normal,Fashion accessories
+Mandalay,Male,Member,Fashion accessories
+Yangon,Female,Normal,Food and beverages
+Mandalay,Male,Member,Food and beverages
+Mandalay,Female,Normal,Electronic accessories
+Mandalay,Female,Normal,Food and beverages
+Naypyitaw,Male,Member,Food and beverages
+Yangon,Male,Normal,Health and beauty
+Yangon,Female,Member,Sports and travel
+Naypyitaw,Male,Normal,Health and beauty
+Naypyitaw,Male,Normal,Electronic accessories
+Mandalay,Female,Normal,Fashion accessories
+Mandalay,Female,Normal,Health and beauty
+Mandalay,Male,Member,Health and beauty
+Naypyitaw,Male,Member,Electronic accessories
+Mandalay,Male,Member,Health and beauty
+Yangon,Female,Normal,Food and beverages
+Mandalay,Female,Normal,Sports and travel
+Yangon,Male,Normal,Electronic accessories
+Mandalay,Male,Normal,Fashion accessories
+Naypyitaw,Female,Member,Electronic accessories
+Naypyitaw,Male,Normal,Health and beauty
+Mandalay,Female,Normal,Home and lifestyle
+Yangon,Male,Member,Food and beverages
+Yangon,Male,Normal,Home and lifestyle
+Yangon,Female,Member,Fashion accessories
